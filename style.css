@@ -9,7 +9,7 @@ body{
 }
 
 .comingsoon-background{
-    background-image: url(./bg_img.png);
+    background-image: url(./bg-img.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
